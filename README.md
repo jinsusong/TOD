@@ -9,7 +9,7 @@
 * [SOM-DST]()
 * [BERT-DST Code 분석]()
 * [BERT-DST do_train 분석](https://github.com/jinsusong/TOD/blob/main/BERT_DST_pytorch.ipynb)
-* [BERT-DST do_eval 분석]()
+* [BERT-DST do_eval 분석](https://github.com/jinsusong/TOD/blob/main/BERT_DST_Eval.ipynb)
 
 ### DP
 
