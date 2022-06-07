@@ -6,7 +6,7 @@
 ### DST
 
 * [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://www.notion.so/Transferable-Multi-Domain-State-Generator-for-Task-Oriented-Dialogue-Systems-6cf53ee25e8b4c3a95777644b8789609)
- * [Pointer-Generation]()
+  * [Pointer-Generation]()
  * [Bi-GRU]() 
  * [GRU]()
  * [LSTM](https://www.notion.so/Long-Short-term-Memory-77730ad156c34a938f50886bb078243b)
