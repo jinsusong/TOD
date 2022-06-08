@@ -8,6 +8,7 @@
 * [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://www.notion.so/Transferable-Multi-Domain-State-Generator-for-Task-Oriented-Dialogue-Systems-6cf53ee25e8b4c3a95777644b8789609)
   * [Pointer-Generation]()
   * [Bi-GRU]() 
+  * [Seq2Seq with Attention]()
   * [GRU]()
   * [LSTM](https://www.notion.so/Long-Short-term-Memory-77730ad156c34a938f50886bb078243b)
 * [TRADE-DST Code 분석](https://www.notion.so/Paper-6de5ddc307d34c0da59728025c2d80d3)
