@@ -6,6 +6,7 @@
 ### DST
 
 * [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://www.notion.so/Transferable-Multi-Domain-State-Generator-for-Task-Oriented-Dialogue-Systems-6cf53ee25e8b4c3a95777644b8789609)
+  * [TRADE 문제점](https://www.notion.so/TRADE-5cc7ba7e5ee143b3a680898801ad9054)
   * [Pointer-Generation]()
   * [Bi-GRU]() 
   * [Seq2Seq with Attention]()
