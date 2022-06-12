@@ -17,7 +17,7 @@
 * [BERT-DST Code 분석]()
 * [BERT-DST do_train 코드 분석](https://github.com/jinsusong/TOD/blob/main/BERT_DST_pytorch.ipynb)
 * [BERT DST do_eval 분석](https://github.com/jinsusong/TOD/blob/main/BERT_DST_Eval.ipynb)
-* [Tripy]()
+* [Tripy](1.)
 * [Pin]()
 
 ### DP
