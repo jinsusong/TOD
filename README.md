@@ -22,7 +22,7 @@
 * [Tripy]()
 * [Pin](.)
 * [Seq2Seq-DU]()
-* [Transformer-DST](.)
+* [Transformer-DST]()
 
 ### DP
 
