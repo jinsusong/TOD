@@ -19,7 +19,7 @@
 * [BERT-DST do_train 코드 분석](https://github.com/jinsusong/TOD/blob/main/BERT_DST_pytorch.ipynb)
 * [BERT DST do_eval 분석](https://github.com/jinsusong/TOD/blob/main/BERT_DST_Eval.ipynb)
 * [NADST]()
-* [Tripy]()
+* [Tripy]장단점 분석)
 * [Pin](.)
 * [Seq2Seq-DU]()
 * [Transformer-DST]()
