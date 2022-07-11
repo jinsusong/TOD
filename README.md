@@ -20,7 +20,7 @@
 * [BERT DST do_eval 분석](https://github.com/jinsusong/TOD/blob/main/BERT_DST_Eval.ipynb)
 * [NADST]()
 * [Tripy]()
-  * 5.1 Analysis
+  * code review
 * [Pin](.)
 * [Seq2Seq-DU]()
 * [Transformer-DST]()
