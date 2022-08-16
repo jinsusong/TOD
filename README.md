@@ -26,7 +26,7 @@
 * [Transformer-DST]()
 * [Structure Extraction in Task-Oriented Dialogues with Slot Clustering]()
 * [BERTopic]()
-* [LUNA](.)
+* [LUNA]()
 
 ### DP
 
